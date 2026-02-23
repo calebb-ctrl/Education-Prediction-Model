@@ -1,2 +1,2 @@
-# Portfolio
-Personal Website
+# Education Model Description
+This model aims to predict high school students’ overall academic performance to help determine what is most critical to scores so they can manage their often-limited time effectively. In a classroom, this could be measured by test performance, overall grade(s), participation, or comprehension checks. However, the variables chosen here are Final Exam Scores as the target variable since the variables related to academic performance were limited to Reading Score, Math Score, Science Score, and Passed Exam. This was done with a synthetic data set.
